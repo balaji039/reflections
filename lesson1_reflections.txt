@@ -1,0 +1,1 @@
+diff command helps to differentiate the changes made in the file by comparing the files line by line.and it points out the places where there is any mismatch between the two files.so by this it helps us to identify the places where some changes have happenned by avoiding the need to look at the whole file for the changes made.

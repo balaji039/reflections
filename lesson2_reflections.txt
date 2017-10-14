@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+the .git file is created to track the files.it has to be done to convert the repsoitory to git repository so that there will be commnunication between online and offline
